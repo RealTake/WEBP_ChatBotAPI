@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="P:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/P_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="P/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="P" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Spring-4.3.18.RELEASE" />
+          <element id="library" level="project" name="Spring MVC-4.3.18.RELEASE" />
+          <element id="file-copy" path="E:/Download_E/neis-api-3.1.0.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
